@@ -1,0 +1,27 @@
+.container{
+    background-color: #0a7196;
+    background-image: url("https://w0.peakpx.com/wallpaper/274/226/HD-wallpaper-car-space-art-drive-earth-fly-landscape-themes-thumbnail.jpg");
+    margin:10px 185px;
+    padding:10px;
+    border-radius:20px;
+ }
+ 
+ 
+ label{
+    font-weight:bold;
+    display: block;
+    margin:20px;
+ }
+ input{
+    border-radius: 30px;
+ }
+    body{
+        background-color: #f2f2f2;
+        background-image: url("https://wallpapers.com/images/hd/perfect-iphone-lamborghini-theme-awu84s86ia0er1wz.jpg");
+        display: blick;
+        text-align: center;
+    }
+    button{
+        margin: 30px;
+        background-color: #252502;
+    }
